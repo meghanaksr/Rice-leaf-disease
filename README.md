@@ -1,1 +1,1 @@
-# Rice-leaf-disease-frontend
+# Rice-leaf-disease
